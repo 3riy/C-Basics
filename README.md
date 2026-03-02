@@ -86,3 +86,9 @@ To compile and run C programs on your computer, you need a C compiler such as **
     ```
 
 4.  Now you are ready to write, compile, and execute C programs.
+
+---
+
+## Discussions
+
+Visit the [Discussions page](https://github.com/3riy/Java-Basics/discussions) to share any comments or remarks you may have regarding this repo!
