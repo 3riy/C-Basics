@@ -20,28 +20,36 @@ Due to its ability to directly interact with hardware and memory, C is the backb
 
 ## 📁 Sub-topics
 
-* [Input and Output Functions](https://github.com/3riy/C/tree/main/Input%20and%20Output%20Functions)
+### 🛠️ Core Foundations
 * [Variables](https://github.com/3riy/C/tree/main/Variables)
+* [Input and Output Functions](https://github.com/3riy/C/tree/main/Input%20and%20Output%20Functions)
 * [Operators](https://github.com/3riy/C/tree/main/Operators)
 * [Type Conversion](https://github.com/3riy/C/tree/main/Type%20Conversion)
+* [Preprocessor Directives and Macros](https://github.com/3riy/C/tree/main/Preprocessor%20Directives%20and%20Macros)
+
+### 🔄 Control Flow
 * [Conditional Statements](https://github.com/3riy/C/tree/main/Conditional%20Statements)
 * [Looping Statements](https://github.com/3riy/C/tree/main/Looping%20Statements)
 * [Jumping Statements](https://github.com/3riy/C/tree/main/Jumping%20Statements)
-* [Strings](https://github.com/3riy/C/tree/main/Strings)
+
+### 🧩 Data Structures & Memory/Files
 * [Arrays](https://github.com/3riy/C/tree/main/Arrays)
+* [Strings](https://github.com/3riy/C/tree/main/Strings)
 * [Functions](https://github.com/3riy/C/tree/main/Functions)
 * [Pointers](https://github.com/3riy/C/tree/main/Pointers)
-* [Dynamic Memory Allocation](https://github.com/3riy/C/tree/main/Memory%20Allocation)
+* [Dynamic Memory Allocation](https://github.com/3riy/C/tree/main/Dynamic%20Memory%20Allocation)
+* [File Handling](https://github.com/3riy/C/tree/main/File%20Handling)
+
+### 🏛️ Advanced Data Structures
 * [Structures](https://github.com/3riy/C/tree/main/Structures)
 * [Unions](https://github.com/3riy/C/tree/main/Unions)
 * [Linked Lists](https://github.com/3riy/C/tree/main/Linked%20Lists)
-* [Stacks](https://github.com/3riy/C/tree/main/Stacks)
-* [Queues](https://github.com/3riy/C/tree/main/Queues)
+* [Stacks & Queues](https://github.com/3riy/C/tree/main/Stacks)
 * [Graphs](https://github.com/3riy/C/tree/main/Graphs)
 * [Searching and Sorting](https://github.com/3riy/C/tree/main/Searching%20and%20Sorting)
-* [Preprocessor Directives and Macros](https://github.com/3riy/C/tree/main/Preprocessor%20Directives%20and%20Macros)
-* [File Handling](https://github.com/3riy/C/tree/main/File%20Handling)
-* [Examples](https://github.com/3riy/C/tree/main/Examples)
+
+### General Examples
+* [General Examples](https://github.com/3riy/C/tree/main/Examples)
 
 ---
 
@@ -89,6 +97,6 @@ To compile and run C programs on your computer, you need a C compiler such as **
 
 ---
 
-## Discussions
+## 💬 Discussions
 
 Visit the [Discussions page](https://github.com/3riy/C-Basics/discussions) to share any comments or remarks you may have regarding this repo!
