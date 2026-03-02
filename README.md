@@ -18,30 +18,30 @@ Due to its ability to directly interact with hardware and memory, C is the backb
   
 ---
 
-## 📁 Sub-folders
+## 📁 Sub-topics
 
-* [Input and Output Functions](https://github.com/rh3nium/C/tree/main/Input%20and%20Output%20Functions)
-* [Variables](https://github.com/rh3nium/C/tree/main/Variables)
-* [Operators](https://github.com/rh3nium/C/tree/main/Operators)
-* [Type Conversion](https://github.com/rh3nium/C/tree/main/Type%20Conversion)
-* [Conditional Statements](https://github.com/rh3nium/C/tree/main/Conditional%20Statements)
-* [Looping Statements](https://github.com/rh3nium/C/tree/main/Looping%20Statements)
-* [Jumping Statements](https://github.com/rh3nium/C/tree/main/Jumping%20Statements)
-* [Strings](https://github.com/rh3nium/C/tree/main/Strings)
-* [Arrays](https://github.com/rh3nium/C/tree/main/Arrays)
-* [Functions](https://github.com/rh3nium/C/tree/main/Functions)
-* [Pointers](https://github.com/rh3nium/C/tree/main/Pointers)
-* [Dynamic Memory Allocation](https://github.com/rh3nium/C/tree/main/Memory%20Allocation)
-* [Structures](https://github.com/rh3nium/C/tree/main/Structures)
-* [Unions](https://github.com/rh3nium/C/tree/main/Unions)
-* [Linked Lists](https://github.com/rh3nium/C/tree/main/Linked%20Lists)
-* [Stacks](https://github.com/rh3nium/C/tree/main/Stacks)
-* [Queues](https://github.com/rh3nium/C/tree/main/Queues)
-* [Graphs](https://github.com/rh3nium/C/tree/main/Graphs)
-* [Searching and Sorting](https://github.com/rh3nium/C/tree/main/Searching%20and%20Sorting)
-* [Preprocessor Directives and Macros](https://github.com/rh3nium/C/tree/main/Preprocessor%20Directives%20and%20Macros)
-* [File Handling](https://github.com/rh3nium/C/tree/main/File%20Handling)
-* [Examples](https://github.com/rh3nium/C/tree/main/Examples)
+* [Input and Output Functions](https://github.com/3riy/C/tree/main/Input%20and%20Output%20Functions)
+* [Variables](https://github.com/3riy/C/tree/main/Variables)
+* [Operators](https://github.com/3riy/C/tree/main/Operators)
+* [Type Conversion](https://github.com/3riy/C/tree/main/Type%20Conversion)
+* [Conditional Statements](https://github.com/3riy/C/tree/main/Conditional%20Statements)
+* [Looping Statements](https://github.com/3riy/C/tree/main/Looping%20Statements)
+* [Jumping Statements](https://github.com/3riy/C/tree/main/Jumping%20Statements)
+* [Strings](https://github.com/3riy/C/tree/main/Strings)
+* [Arrays](https://github.com/3riy/C/tree/main/Arrays)
+* [Functions](https://github.com/3riy/C/tree/main/Functions)
+* [Pointers](https://github.com/3riy/C/tree/main/Pointers)
+* [Dynamic Memory Allocation](https://github.com/3riy/C/tree/main/Memory%20Allocation)
+* [Structures](https://github.com/3riy/C/tree/main/Structures)
+* [Unions](https://github.com/3riy/C/tree/main/Unions)
+* [Linked Lists](https://github.com/3riy/C/tree/main/Linked%20Lists)
+* [Stacks](https://github.com/3riy/C/tree/main/Stacks)
+* [Queues](https://github.com/3riy/C/tree/main/Queues)
+* [Graphs](https://github.com/3riy/C/tree/main/Graphs)
+* [Searching and Sorting](https://github.com/3riy/C/tree/main/Searching%20and%20Sorting)
+* [Preprocessor Directives and Macros](https://github.com/3riy/C/tree/main/Preprocessor%20Directives%20and%20Macros)
+* [File Handling](https://github.com/3riy/C/tree/main/File%20Handling)
+* [Examples](https://github.com/3riy/C/tree/main/Examples)
 
 ---
 
