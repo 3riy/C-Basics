@@ -91,4 +91,4 @@ To compile and run C programs on your computer, you need a C compiler such as **
 
 ## Discussions
 
-Visit the [Discussions page](https://github.com/3riy/Java-Basics/discussions) to share any comments or remarks you may have regarding this repo!
+Visit the [Discussions page](https://github.com/3riy/C-Basics/discussions) to share any comments or remarks you may have regarding this repo!
